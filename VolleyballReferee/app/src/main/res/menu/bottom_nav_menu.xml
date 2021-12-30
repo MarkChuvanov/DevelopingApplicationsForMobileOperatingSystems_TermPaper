@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_match"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="@string/title_match" />
+
+    <item
+        android:id="@+id/navigation_teams"
+        android:icon="@drawable/baseline_supervisor_account_24"
+        android:title="@string/title_teams" />
+
+    <item
+        android:id="@+id/navigation_players"
+        android:icon="@drawable/baseline_perm_identity_24"
+        android:title="@string/title_players" />
+
+    <item
+        android:id="@+id/navigation_referees"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_referees" />
+
+    <item
+        android:id="@+id/navigation_matches"
+        android:icon="@drawable/baseline_history_24"
+        android:title="@string/title_matches" />
+</menu>
